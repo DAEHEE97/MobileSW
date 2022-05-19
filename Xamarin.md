@@ -50,6 +50,11 @@
 - .FadeTo
 - .RotateTo
 
+- View
+- await
+- Marquee
+- TranslateTo
+-
 ## 배경 
 
 - 시간에 따른 변화
