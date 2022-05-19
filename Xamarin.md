@@ -46,7 +46,9 @@
 
 # Project 난리난 화면 속의 디지털 시계
 
-
+- .Opacity
+- .FadeTo
+- .RotateTo
 
 ## 배경 
 
