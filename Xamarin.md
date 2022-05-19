@@ -23,6 +23,9 @@
 
 
 
+
+
+
 ### [Layout-options](https://docs.microsoft.com/ko-kr/xamarin/xamarin-forms/user-interface/layouts/layout-options)
 
 
@@ -38,3 +41,45 @@
 - FillAndExpand
 
 
+
+---
+
+# Project 난리난 화면 속의 디지털 시계
+
+
+
+## 배경 
+
+- 시간에 따른 변화
+
+- 영상 
+
+- 음악
+
+- fade in fade out
+
+
+## 기능
+
+- 현재 시간 불러오기
+
+- 현재 날짜 불러오기
+
+- 현재 날씨 불러오기
+
+- 세계 시간
+
+- 실시간 뉴스, 주가 정보
+
+- Icon HyperLink
+
+
+
+---
+
+# Project 난리난 화면 속의 아날로그 시계
+
+
+- 날짜
+
+- AM PM
