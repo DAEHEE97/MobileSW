@@ -41,20 +41,21 @@
 - FillAndExpand
 
 
-
 ---
 
 # Project 난리난 화면 속의 디지털 시계
 
 - .Opacity
 - .FadeTo
-- .RotateTo
+- .TranslateTo
+
 
 - View
 - await
 - Marquee
 - TranslateTo
--
+- async
+
 ## 배경 
 
 - 시간에 따른 변화
@@ -86,6 +87,7 @@
 
 # Project 난리난 화면 속의 아날로그 시계
 
+- .RotateTo
 
 - 날짜
 
