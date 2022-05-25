@@ -9,3 +9,7 @@
  
  
 ## Project 난리난 화면 속의 아날로그 시계 
+
+
+> https://docs.microsoft.com/ko-kr/xamarin/get-started/tutorials/
+> https://docs.microsoft.com/ko-kr/xamarin/xamarin-forms/user-interface/button#handling-button-clicks
