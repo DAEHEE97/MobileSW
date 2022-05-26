@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digital", "Digital\Digital\Digital.csproj", "{2BDFDFFC-20CC-48AA-B8BF-30594A35EDA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digital.Tizen", "Digital\Digital.Tizen\Digital.Tizen.csproj", "{1F1F6F18-B7E2-462B-B961-7C8CDFFC1F88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BDFDFFC-20CC-48AA-B8BF-30594A35EDA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDFDFFC-20CC-48AA-B8BF-30594A35EDA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDFDFFC-20CC-48AA-B8BF-30594A35EDA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDFDFFC-20CC-48AA-B8BF-30594A35EDA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F1F6F18-B7E2-462B-B961-7C8CDFFC1F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1F6F18-B7E2-462B-B961-7C8CDFFC1F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1F6F18-B7E2-462B-B961-7C8CDFFC1F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1F6F18-B7E2-462B-B961-7C8CDFFC1F88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24490773-56EA-4A50-9E26-F81520C06BB9}
+	EndGlobalSection
+EndGlobal
